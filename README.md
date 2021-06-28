@@ -1,5 +1,6 @@
 # Smartly
 ![Screenshot_1624880091](https://user-images.githubusercontent.com/45359257/123630426-6d9b4980-d80d-11eb-8efe-18038c18023d.png)
+https://user-images.githubusercontent.com/45359257/123630426-6d9b4980-d80d-11eb-8efe-18038c18023d.png
 
 A login screen that implements Flutter custom clip path
 
