@@ -1,6 +1,6 @@
-# logon
+# Smartly
 
-A new Flutter project.
+A login screen that implements Flutter custom clip path
 
 ## Getting Started
 
